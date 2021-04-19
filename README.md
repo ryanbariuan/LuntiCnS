@@ -1,9 +1,18 @@
 # LuntiCnS Sample Static Website
 
-# Steps:
+This project is a re-imagining of a sample static website for an online store that sells Cactus and Succulents. The website has a sample responsive design.
 
-# 1. clone repository on local PC by using the command below:
+## Steps in downloading:
 
-# 2. git clone https://github.com/ryanbariuan/LuntiCnS.git
+1. clone repository on local PC by using the command below:
 
-# 3. open the index.html to see the static website.
+```
+git clone https://github.com/ryanbariuan/LuntiCnS.git
+
+```
+
+2. open the index.html to see the static website.
+
+3. If you have problems with the images, check if file path is correct.
+
+All Images used are from the LuntiCnS facebook page.
